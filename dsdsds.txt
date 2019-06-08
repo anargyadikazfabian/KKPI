@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>MY PROFILE</h1>
+<p>My Bio
+   .</p>
+
+</body>
+ My name is Anargya Dikaz Fabian,i was born on 24 may 2002.I study in SMAKBO and iam part of XI-7 class.My hobby is jogging because jogging can calm my mind.I am a fan of queen the legendary band from england.I like them because their stge performance was very amazing especially the vocalist,Fredie Mercury.
+ <img src="https://raw.githubusercontent.com/anargyadikazfabian/KKPI/master/idol.png" alt="Trulli" width="500" height="333">
+</html>
